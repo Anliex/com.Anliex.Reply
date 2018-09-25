@@ -1,0 +1,9 @@
+K:\CQ\com.Anliex.Reply\Bin\com.Anliex.Reply.dll
+K:\CQ\com.Anliex.Reply\Bin\com.Anliex.Reply.pdb
+K:\CQ\com.Anliex.Reply\src\Flexlive.CQP.CSharpPlugins.Demo\obj\Debug\com.Anliex.Reply.csprojAssemblyReference.cache
+K:\CQ\com.Anliex.Reply\src\Flexlive.CQP.CSharpPlugins.Demo\obj\Debug\Flexlive.CQP.CSharpPlugins.Demo.FormSettings.resources
+K:\CQ\com.Anliex.Reply\src\Flexlive.CQP.CSharpPlugins.Demo\obj\Debug\com.Anliex.Reply.csproj.GenerateResource.cache
+K:\CQ\com.Anliex.Reply\src\Flexlive.CQP.CSharpPlugins.Demo\obj\Debug\com.Anliex.Reply.csproj.CoreCompileInputs.cache
+K:\CQ\com.Anliex.Reply\src\Flexlive.CQP.CSharpPlugins.Demo\obj\Debug\com.Anliex.Reply.csproj.CopyComplete
+K:\CQ\com.Anliex.Reply\src\Flexlive.CQP.CSharpPlugins.Demo\obj\Debug\com.Anliex.Reply.dll
+K:\CQ\com.Anliex.Reply\src\Flexlive.CQP.CSharpPlugins.Demo\obj\Debug\com.Anliex.Reply.pdb
